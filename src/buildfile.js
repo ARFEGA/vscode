@@ -16,3 +16,4 @@ exports.code = require('./vs/code/buildfile').collectModules();
 exports.entrypoint = function (name) {
 	return [{ name: name, include: [], exclude: ['vs/css', 'vs/nls'] }];
 };
+Encontrado Error
